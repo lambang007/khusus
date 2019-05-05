@@ -1,0 +1,2 @@
+# khusus
+khusus ajha
