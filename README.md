@@ -1,2 +1,2 @@
 # khusus
-khusus ajha
+khusus group
