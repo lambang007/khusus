@@ -73,7 +73,8 @@ echo -e $cyan "cyber"
 sleep 1
 echo -e  $purple "User root"
 sleep 1
-#
+trap ctrl_c INT
+ctrl_c() {
 clear
 echo  $red"[#]> (Ctrl + C ) Detected, 
 Trying To Exit ... "
