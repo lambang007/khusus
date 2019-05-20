@@ -8,11 +8,72 @@ cyan='\033[36;1m'
 red='\033[31;1m'
 white='\033[37;1m'
 yellow='\033[33;1m'
-###################################################
-# MR. Mr horden
-###################################################
-trap ctrl_c INT
-ctrl_c() {
+
+echo -e $blue ""
+#
+echo
+figlet "terminal"
+sleep 1
+
+echo
+figlet "Linux"
+sleep 1
+
+echo
+figlet "anda-sedang"
+sleep 1
+
+echo -e $purple ".."
+#
+echo
+figlet "menuju"
+sleep 1
+
+echo
+figlet "anonymous"
+sleep 1
+
+echo
+figlet "cyber;Horden"
+sleep 1
+
+echo -e $blue" SALAM ANONYMOUS "
+sleep 1
+echo -e $purple" dear jomblo "
+sleep 1
+echo -e $green" Masih loading "
+sleep 1
+echo -e $cyan" Please Waitttt"
+sleep 1
+echo -e $yellow" jangan sentuh hape saya "
+sleep 1
+echo -e $red"hacking by Mr horden"
+sleep 1
+echo -e $blue"Selamat menikmati "
+sleep 1
+
+# clear
+figlet "menjalankan"
+sleep 2
+echo -e $blue"[=============================================[>"
+sleep 2
+neofetch
+sleep 2
+echo -e $cyan"tenang"
+sleep 1
+#
+figlet "System"
+echo -e $blue"[=============================================[>"
+
+echo -e $yellow "Selamat datang"
+sleep 1
+echo -e $red "Di area"
+sleep 1
+echo -e $cyan "cyber"
+sleep 1
+echo -e  $purple "User root"
+sleep 1
+#
 clear
 echo  $red"[#]> (Ctrl + C ) Detected, 
 Trying To Exit ... "
@@ -30,16 +91,7 @@ exit
 =================================================
 echo $white"Author : MR. Horden "
 echo $white"Team : FR13ND5"
-echo $white"Thanks To :Mr. Cl4Y | Kandol | Mr. Sat24 | Mr. Khintil | Mr. 5ton3 | Its_iCn | Inyours3rv3r | Tu4n N1cn4m4 | Cy#B3root | Mr. Rm19 | Anarki_420 | Hmei7 | Bh3not | Mr. Kapra| AW4K3"
-echo $red"Thanks To :Intect"
-echo $green"thanks To : W3LL Squad Offical" 
-echo $red"thanks To : Sora Cyber Team"
-echo $black"thanks To : Blackhat Hacker 
-Indonesia"
-echo $red"thanks To : RABIT CYBER TEAM"
-echo $red"thanks To : Curut Cyber Team "
-echo $red"thanks To: Indonesia Hacker Rules"
-echo $red"thanks to: Jakarta Cyber Army"
+echo $white"Thanks To"
 =================================================
 echo  $yellow" 01) Red Hawk"
 echo  $yellow" 02) D-Tect"
