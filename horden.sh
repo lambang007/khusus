@@ -67,8 +67,7 @@ sleep 1
 apt update && apt upgrade
 apt install php
 apt install git
-git clone 
-https://github.com/Tuhinshubhra/RED_HAWK
+git clone https://github.com/Tuhinshubhra/RED_HAWK
 echo  $red" T E R I N S T A L L "
 exit
 fi
@@ -81,8 +80,7 @@ sleep 1
 apt-get update && apt-get upgrade
 apt-get install git
 apt-get install python2
-git clone 
-https://github.com/shawarkhanethicalhacker/D-TECT
+git clone https://github.com/shawarkhanethicalhacker/D-TECT
 echo  $red" T E R I N S T A L L "
 exit
 fi
@@ -136,8 +134,7 @@ sleep 1
 apt update && apt upgrade
 apt install git
 apt install wget
-wget
-https://raw.githubusercontent.com/verluchie/termux-metasploit/master/install.sh
+wget https://raw.githubusercontent.com/verluchie/termux-metasploit/master/install.sh
 chmod 777 install.sh
 sh install.sh
 echo  $red" T E R I N S T A L L "
@@ -163,8 +160,7 @@ apt update && apt upgrade
 apt install git
 apt install wget
 apt install proot
-git clone 
-https://github.com/Neo-Oli/termux-ubuntu.git
+git clone https://github.com/Neo-Oli/termux-ubuntu.git
 cd ~/termux-ubuntu
 chmod +x ubuntu.sh
 sh ubuntu.sh
@@ -200,8 +196,7 @@ sleep 1
 apt update && apt upgrade
 pkg install git
 pkg install python2
-git clone 
-https://github.com/blackvkng/viSQL.git
+git clone https://github.com/blackvkng/viSQL.git
 cd ~/viSQL
 chmod 777 viSQL.py
 cd ~/
@@ -217,8 +212,7 @@ apt update && apt upgrade
 pkg install toilet
 pkg install sh
 pkg install git
-git clone 
-https://github.com/INYOURS3RV3R/Multi-Brute-Webdav
+git clone https://github.com/INYOURS3RV3R/Multi-Brute-Webdav
 cd ~/Multi-Brute-Webdav
 echo  $red" T E R I N S T A L L "
 exit
@@ -233,8 +227,7 @@ pkg install figlet
 pkg install python2
 pip2 install requests
 pip2 install termcolor
-git clone 
-https://github.com/DarknessCyberTeam/BAJINGANv6.git
+git clone https://github.com/DarknessCyberTeam/BAJINGANv6.git
 cd ~/BAJINGANv6
 echo  $red" T E R I N S T A L L "
 exit 
