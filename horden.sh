@@ -57,7 +57,7 @@ echo  $yellow" 13) Tools RCT"
 echo  $yellow" 14)  cc fresh Amazon Dan Untung Carding"
 echo  $red" 15) Exit "
 echo  $green""
-read -p "[Mr.DRAG]> " bro;
+read -p "[Mr.HORDEN_FR13ND5]> " bro;
  
 if [ $bro = 1 ] || [ $bro = 01 ]
 then
@@ -275,7 +275,7 @@ echo " Para Hacker"
 sleep 1
 echo " Jangan Lupa belajar Yahh "
 sleep 1
-echo " Semoga Lu Besok Mati ea Budjank"
+echo " Semoga Lu Besok berhasil ea Budjank"
 sleep 1
 exit
 fi
