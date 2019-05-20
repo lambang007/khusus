@@ -122,6 +122,10 @@ apt update && apt upgrade
 apt install php
 apt install git
 git clone https://github.com/Tuhinshubhra/RED_HAWK
+cd RED_HAWK
+chmod +x *
+ls
+php rahwk.php
 echo  $red" T E R I N S T A L L "
 exit
 fi
@@ -135,6 +139,7 @@ apt-get update && apt-get upgrade
 apt-get install git
 apt-get install python2
 git clone https://github.com/shawarkhanethicalhacker/D-TECT
+chmod +x *
 echo  $red" T E R I N S T A L L "
 exit
 fi
@@ -268,6 +273,7 @@ pkg install sh
 pkg install git
 git clone https://github.com/INYOURS3RV3R/Multi-Brute-Webdav
 cd ~/Multi-Brute-Webdav
+chmod +x *
 echo  $red" T E R I N S T A L L "
 exit
 fi
